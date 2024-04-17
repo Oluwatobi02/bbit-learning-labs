@@ -26,3 +26,7 @@ To test your producer class, we'll use Docker to set up a container running Rabb
 * Look Under the Overview Tab for message rates to verify that a message was sent. Your message rate should look like the image below.
 
 ![alt text](../../../data/Images/message_rate.jpeg)
+
+
+## solution
+made a connection from the client to producer
